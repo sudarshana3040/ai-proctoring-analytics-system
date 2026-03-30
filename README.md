@@ -42,9 +42,6 @@ Python • OpenCV • YOLOv8 • NumPy • Flask • Requests
 
 ⚙️ Setup
 
-Clone the repo
-git clone https://github.com/your-username/ai-proctoring-analytics-system.git
-
 Install dependencies
 pip install -r requirements.txt
 
